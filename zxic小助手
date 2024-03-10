@@ -1,6 +1,12 @@
 // ==UserScript==
 // @name         ZXIC小助理
+// @namespace    https://community.dingyi.eu.org/users/10000#articles
+// @homepage     https://community.dingyi.eu.org/users/10000#articles
+// @version      0.5
 // @description  帮助你轻松管理各种ZXIC路由器，不修改路由器固件即可直接使用所有隐藏功能。
+// @author       FireFax
+// @copyright    2023, FireFax
+// @supportURL   https://community.dingyi.eu.org/articles/11
 // @updateURL    https://www.dingyi.eu.org/userftp/10000/zxic-assistant.js?tm
 // @downloadURL  https://www.dingyi.eu.org/userftp/10000/zxic-assistant.js?tm
 // @run-at       document-end
