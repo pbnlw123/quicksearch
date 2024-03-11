@@ -1480,9 +1480,9 @@
             if (dotCount == 0) {
                 url = 'http.' + url + '/status';
             } else if (dotCount == 1) {
-                url = 'http://' + url+ '/status';
+                url = 'http://' + url;
             }
-            url = 'http://' + url+ '/status';
+            url = 'http://' + url;
         }
         return {
             url: url,
